@@ -1,0 +1,123 @@
+html,
+body {
+
+   margin: 0;
+   padding: 0;
+}
+
+img {
+    position: absolute;
+    width: 700px;
+    height: 425px;
+    left: 662px;
+    top: 173px;
+    background: url(.jpg);
+    border-radius: 0px;
+    margin-left: 200px;
+}
+
+.title {
+    position: absolute;
+    width: 591px;
+    height: 90px;
+    left: 62px;
+    top: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 40px;
+    line-height: 60px;
+    color: #00CB9C;
+}
+
+.one {
+    position: absolute;
+    width: 391px;
+    height: 90px;
+    left: 62px;
+    top: 175px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 90px;
+    color: #00CB9C;
+}
+
+.zwei {
+    position: absolute;
+    width: 220px;
+    height: 90px;
+    left: 62px;
+    top: 265px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 90px;
+    color: #0D5ACC;
+}
+
+.drei {
+    position: absolute;
+    width: 175px;
+    height: 90px;
+    left: 300px;
+    top: 265px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 90px;
+    color: #B6E01B;
+}
+
+.text {
+    position: absolute;
+    width: 426px;
+    height: 128px;
+    left: 120px;
+    top: 377px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #4D597C;
+}
+
+.favorite {
+    position: absolute;
+    width: 149px;
+    height: 23px;
+    left: 122px;
+    top: 559px;
+    background-color: #08f908;
+    text-align: center;
+    border-radius:15px;
+    border: 0;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.style {
+    position: absolute;
+    width: 117px;
+    height: 23px;
+    left: 122px;
+    top: 603px;
+    background-color: aqua;
+    border: 0;
+    border-radius:15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    
+}
